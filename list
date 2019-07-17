@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HoboHelp Supplies</title>
+    <link rel="stylesheet" href="myStyles.css">
+  </head>
+
+  <body>
+
+    <h1><center>HoboHelp Supplies</center></h1>
+
+    <h3><center>here is a list of things we can make use of to help the homeless people in our community and the surrounding communities.</center></h3>
+
+    <hr class = hr>
+    <br>
+
+    <div>
+      <p>Insert items in list here</p>
+    </div>
+
+  </body>
+
+</html>
